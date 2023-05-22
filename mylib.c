@@ -6,4 +6,12 @@ void swap(int* a, int* b) {
 	*b = tmp;
 }
 
+int mult(int a, int b){
+	return a*b;
+}
+
+int div(int a, int b){
+	return a/b;
+}
+
 
